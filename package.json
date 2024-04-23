@@ -1,0 +1,18 @@
+{
+  "name": "solana-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "npx esrun index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.2.0",
+    "@solana/web3.js": "^1.91.1",
+    "dotenv": "^16.4.5",
+    "esrun": "^3.2.26",
+    "typescript": "^5.4.3"
+  }
+}
